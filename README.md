@@ -21,3 +21,5 @@ Aktuálně jsou všichni závodníci – čtyři koně a jeden jednorožec – n
 1. (Pro pokročilé) Ať se jednorožec teleportuje buď se zpožděním, nebo v několika postupných skocích.
 
 1. (Pro fanoušky JavaScriptu) Ať se každý závodník rozběhne po kliku na něj.
+
+![náhled řešení](podklady/nahled-reseni.gif)
